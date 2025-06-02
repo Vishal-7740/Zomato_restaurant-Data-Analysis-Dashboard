@@ -1,12 +1,16 @@
 🧾 Overview
 This Power BI dashboard provides a comprehensive analysis of restaurant performance, helping stakeholders gain insights into key business metrics such as revenue, orders, customer trends, and operational efficiency. It is designed for decision-makers, including restaurant managers, marketing teams, and executives.
 
+
+
 🔍 Key Features
 Sales Overview
 Track total revenue, average order value, and sales trends over time.
 
+
 Order Analysis
 Analyze order volume by date, location, category, and time of day.
+
 
 Customer Insights
 Identify customer behavior patterns, repeat customers, and customer segmentation.
