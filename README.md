@@ -23,15 +23,7 @@ Visualize performance across different branches or cities using map-based analyt
 
 Operational KPIs
 Monitor metrics such as table turnover rate, average service time, and peak hours.
-
-📁 File Details
-File Name: Zomato_Restaurant Data Analysis Dashboard.pbix
-
 Tool Used: Microsoft Power BI Desktop
-
-Data Sources: (Add here: e.g., CSV, SQL Server, Excel, etc.)
-
-Last Updated: (Add date)
 
 🧑‍💼 Intended Users
 Restaurant Owners
