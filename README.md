@@ -34,17 +34,6 @@ Marketing & Sales Teams
 
 Data Analysts
 
-🎯 Business Questions Answered
-What are our daily, weekly, and monthly sales trends?
-
-Which dishes generate the most revenue?
-
-Which locations are under- or overperforming?
-
-When are the busiest times of day or week?
-
-How are customers interacting with the menu?
-
 📌 Instructions to Use
 Open the .pbix file in Power BI Desktop.
 
